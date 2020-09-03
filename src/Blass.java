@@ -13,4 +13,4 @@ public class Blass {
 
         System.out.println(k);
     }
-}arr[1]
+}
